@@ -18,7 +18,7 @@
 -->
 
 <div>
-    <img src="./assets/about_wafa.gif" alt="About Me Terminal GIF"/>
+    <img src="./about_wafa.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
