@@ -34,7 +34,7 @@ I am passionate about leveraging data and AI to solve complex, real-world proble
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=python,r,springboot,flutter,scala,linear-regression,logistic-regression,decision-trees,random-forests,svm,knn,naive-bayes,lvq,k-means,hierarchical-clustering,pca,neural-network,cnn,rnn,lstm,gan,autoencoders,transformers,word2vec,gpt,tf-idf,eda,web-scraping,beautifulsoup,matplotlib,seaborn,powerbi,excel,hadoop,spark,mongodb,neo4j,oracle,mysql,talend,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,springboot,flutter,scala,tensorflow,azure,dialogflow,hadoop,spark,mongodb,neo4j,oracle,mysql,docker,excel,powerbi,matplotlib,seaborn)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=,azure)](https://skillicons.dev)
