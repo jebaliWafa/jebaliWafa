@@ -34,8 +34,11 @@ I am passionate about leveraging data and AI to solve complex, real-world proble
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=python,r,spring,flutter,scala,tensorflow,azure,hadoop,spark,elasticsearch,cassandra,mongodb,neo4j,oracle,mysql,docker,excel,powerbi,matplotlib,seaborn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,spring,flutter,scala,tensorflow,azure,elasticsearch,cassandra,mongodb,oracle,mysql,docker,excel,powerbi,matplotlib,seaborn)](https://skillicons.dev)
 
+![Neo4j](https://img.shields.io/badge/Neo4j-%2300A3D9?style=flat&logo=neo4j&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-%23FFB600?style=flat&logo=apachehadoop&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C?style=flat&logo=apachespark&logoColor=white)
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=,azure)](https://skillicons.dev)
 
