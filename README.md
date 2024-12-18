@@ -47,7 +47,6 @@ I am passionate about leveraging data and AI to solve complex, real-world proble
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
@@ -66,10 +65,7 @@ I am passionate about leveraging data and AI to solve complex, real-world proble
 -->
 
 ### Employer?
-> <a href="https://drive.google.com/drive/folders/?usp=sharing" download>Download my resume</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-
+> <a href="https://drive.google.com/file/d/1RrcYiohAw7o0qbT5hasykI7EPxYfrPvt/view?usp=sharing" target="_blank" download>Download my resume</a>
 <!--
      Thanks for being my guest <3
 -->
