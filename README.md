@@ -102,7 +102,7 @@ Currently focusing on medical image analysis, machine learning, and cloud-based 
              alt="LinkedIn" width="35" height="35"/>
     </a>
     <!-- Gmail -->
-    <a href="mailto:your.email@example.com" target="_blank">
+    <a href="mailto:jebaliwafa000@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
             alt="Email" width="35" height="35"/>
     </a>
