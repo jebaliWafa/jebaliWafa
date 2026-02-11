@@ -25,8 +25,10 @@
 -->
 
 ### About Me
-I’m a Master’s student in Data Science, passionate about building AI solutions for healthcare and beyond.  
-Currently focusing on medical image analysis, machine learning, and cloud-based big data systems. 
+I’m a Junior Data Scientist with a Master’s degree in Data Science and hands on experience in machine learning, deep
+learning, Time series and image analysis. Experienced in building end-to-end ML pipelines, working with large scale
+datasets, and applying AI methods in research and applied settings. Strong background in Python, Spark, Azure, DL
+and statistical modeling.
 <!--
      This is the list of my skills and tools I am studying!
 -->
@@ -113,7 +115,7 @@ Currently focusing on medical image analysis, machine learning, and cloud-based 
 -->
 
 ### Open to Opportunities
-
+<!--
 <div align="center">
   <a href="https://drive.google.com/file/d/1RrcYiohAw7o0qbT5hasykI7EPxYfrPvt/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Download%20Resume-8A3E69?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D9BED1" alt="Resume"/>
@@ -125,3 +127,4 @@ Currently focusing on medical image analysis, machine learning, and cloud-based 
 </div>
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=80&section=footer" alt="footer"/> 
+-->
