@@ -113,9 +113,9 @@ and statistical modeling.
 <!--
      Oh, hello there, recruiters!
 -->
-
-### Open to Opportunities
 <!--
+### Open to Opportunities
+
 <div align="center">
   <a href="https://drive.google.com/file/d/1RrcYiohAw7o0qbT5hasykI7EPxYfrPvt/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Download%20Resume-8A3E69?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D9BED1" alt="Resume"/>
